@@ -4,5 +4,7 @@
 { "moduleId" : "wazemap/waze"},
 { "moduleId" : "jamesbond002/osm"},
 { "moduleId" : "mapman100/Blitzer"},
-{ "moduleId" : "wazemap/wikimap"}
+{ "moduleId" : "wazemap/wikimap"},
+{ "moduleId" : "grabowCommuter/Google_Places"},
+{ "moduleId" : "maps4all/parkopedia"}
 ]
